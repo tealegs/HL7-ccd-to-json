@@ -1,2 +1,2 @@
 # HL7-ccd-to-json
-parsing HL7 CCD to JSON for NOSQL applications
+Parsing HL7 C-CDA to JSON for NOSQL applications.
